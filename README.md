@@ -1,9 +1,9 @@
-# Website FOSS4GNL 2025 in Wageningen
-This is the content for the website of the FOSS4GNL 2025 conference (to be) held on July 111 at the Wageningen University.
+# Website FOSS4GNL 2026 in Groningen
+This is the content for the website of the FOSS4GNL 2026 conference (to be) held on July 8 and 9 in Groningen
 
 Organised together with the GeoDesk Wageningen. 
 
-Link: https://2024.foss4g.nl
+Link: https://2026.foss4g.nl
 
 # HOW TO Creating a new website
 
@@ -40,7 +40,7 @@ Create a new repo called **foss4gnl/2024.foss4g.nl** from the **foss4gnl/2023.fo
 
 * in root dir of previeous year repro , change CNAME file to 2023.foss4g.nl
 
-## YourHosing settings
+## YourHosting settings
 
 * Go to YourHosting account. 
 * Go to `DNS-en redirectbeheer` then `foss4g.nl Beheer`

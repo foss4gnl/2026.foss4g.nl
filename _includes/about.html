@@ -1,0 +1,38 @@
+<!-- About Section -->
+<section id="about" class="about">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.aboutTitle }}</h3>
+
+            {% assign animationDelay = 0 %}
+            {% for about in site.aboutLogo %}
+            {% if about.image %}
+            <div class="row about-details">
+            {% assign colWidth = 12 | divided_by: forloop.length %}
+                <div class="col-md-{{ colWidth }} col-xs-{{ colWidth }}">
+                <a href={{ about.permalink | prepend: site.baseurl  }}>
+                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                        <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
+                    </div>
+                </a>
+                </div>
+                
+                {% assign animationDelay = animationDelay | plus:500 %}
+                {% assign check = forloop.index | modulo:2 %}
+             
+            </div>
+            {% endif %}
+            {% endfor %}
+
+            <div class="content-wrapper text-left">
+                <div class="col-lg-6 col-lg-offset-3">
+                    <p>{{site.aboutDescription}}</p>
+                </div>
+            </div>
+        
+
+          
+        </div>
+    </div>
+</section>
+<!-- End About Section -->

@@ -1,7 +1,7 @@
 image: "220512_208_Omnia.jpg"
-title: "FOSS4GNL 2025"
+title: "FOSS4GNL 2026"
 #spreker: "WORD SPREKER"
-eventDate: "2 & 3 juli 2025 - Wageningen Campus, Omnia"
+eventDate: "8 & 9 juli 2026 - Groothandelshuis, Groningen"
 buttons:
-  - {link: "https://pretix.eu/foss4gnl/2025/", text: "Tickets"}
-  - {link: "https://talks.osgeo.org/foss4gnl-2025/schedule/", text: "Programma"}
+  - {link: "https://pretix.eu/foss4gnl/2026/", text: "Tickets"}
+  - {link: "https://talks.osgeo.org/foss4gnl-2026/schedule/", text: "Programma"}

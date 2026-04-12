@@ -30,7 +30,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://osgeo.nl/"
 
 # Head
-metaKeywords: "event, osgeo, conferentie, open source, geo, gis, WUR, geographic, nederland, Wageningen, osgeonl, Wageningen Universiteit, Geodesk"
+metaKeywords: "event, osgeo, conferentie, open source, geo, gis, RUG, geographic, nederland, Groningen, osgeonl"
 
 # Navigation
 navigationLinks:
@@ -88,11 +88,11 @@ eventAddressCountry: "Nederland"
 eventStartTime: "2025-07-08T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2025-07-09T18:00"
-eventPlaceCoordinates: "51.9859156, 5.669655053"
-eventPlaceLongitude: 5.669655053
-eventPlaceLatitude: 51.9859156
-mapCenterCoordinates: "51.9859156, 5.669655053"
-mapMobileCenterCoordinates: "51.9859156, 5.669655053"
+eventPlaceCoordinates: "53.2190461, 6.5663137"
+eventPlaceLongitude: 6.5663137
+eventPlaceLatitude: 53.2190461
+mapCenterCoordinates: "53.2190461, 6.5663137"
+mapMobileCenterCoordinates: "53.2190461, 6.5663137"
 
 # Partners Block
 partnersTitle: "Sponsors"
@@ -111,7 +111,7 @@ ticketsTitle: "Prijslijst"
 ticketsInfo: ""
 ticketsOffers:
  -
-  name: "Conferentiedag 2 juli"
+  name: "Conferentiedag 9 juli"
   price: ""
   priceCurrency: "Donatie"
   ticketsNumber: "?"
@@ -122,16 +122,6 @@ ticketsOffers:
   validFrom: "2019-04-23T00:00"
   validThrough: "2019-06-20T00:00"
  -
-  name: "Golden ticket 20 juni"
-  price: ""
-  priceCurrency: "Donatie"
-  ticketsNumber: "?"
-  buyButtonLink: "https://www.eventbrite.nl/e/tickets-foss4gnl-2019-60886980598"
-  buyButtonText: "Koop nu"
-  soldOut: false
-  soldOutText: "Uitverkocht"
-  validFrom: "2019-04-23T00:00"
-  validThrough: "2019-06-20T00:00"
 
 # Footer
 socialLinks:

@@ -1,8 +1,8 @@
 image: "grote markt Martinitoren.jpeg"
 title: "FOSS4GNL 2026"
 spreker: "PRESENTEER ZÉLF"
-eventDate: "Save the date: 8 & 9 juli 2026 - Huis of Connections (Groothandelshuis), Groningen"
+eventDate: "Save the date: 8 & 9 juli 2026 - Huis of Connections (Groothandelshuis) / Rölinggebouw, Groningen"
 buttons:
-- {link: "https://pretalx.com/foss4gnl/cfp", text: "Call for Presentations: Geef zelf een presentatie of workshop! - verlengd t/m 25 mei!"}
+#    - {link: "https://pretalx.com/foss4gnl/cfp", text: "Call for Presentations: Geef zelf een presentatie of workshop! - verlengd t/m 25 mei!"}
 - {link: "https://pretix.eu/foss4gnl/2026/", text: "Tickets"}
 #   - {link: "https://pretalx.com/orga/event/foss4gnl/schedule/", text: "Programma"}

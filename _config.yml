@@ -140,7 +140,6 @@ footerBlocks:
   links:
     - {link: "https://osgeo.nl/", text: "OSGeo.nl"}
     - {link: "https://wiki.osgeo.org/wiki/Nederlands/", text: "Wiki"}
-#    - {permalink: "/cod/", text: "Code of Conduct"
     - {link: "https://www.osgeo.org/code_of_conduct/", text: "Code of Conduct"}
 
 -

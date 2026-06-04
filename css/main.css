@@ -2229,7 +2229,7 @@ time{
     color:#fff;
     font-weight:100;
     background-repeat:no-repeat;
-    background-position:center center !important;
+    background-position:left center !important;
     background-size:cover !important
 }
 .image-section.parallax{

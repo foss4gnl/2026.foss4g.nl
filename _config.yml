@@ -36,11 +36,8 @@ metaKeywords: "event, osgeo, conferentie, open source, geo, gis, RUG, geographic
 navigationLinks:
  - {permalink: "/", text: "Home"}
 #  - {permalink: "/blog/", text: "Nieuws"}
-#  - {permalink: "/workshops/", text: "Workshops"}
-#  - {link: "https://talks.osgeo.org/foss4gnl-2026/schedule/", text: "Programma"}
-#  - {permalink: "/photos/", text: "Foto's"}
-#  - {link: "https://pretix.eu/foss4gnl/2026/", text: "Tickets"}
-#  - {link: "https://talks.osgeo.org/foss4gnl-2026/speaker/", text: "Sprekers"}
+ - {link: "https://pretalx.com/foss4gnl/schedule/", text: "Programma"}
+ - {link: "https://pretix.eu/foss4gnl/2026/", text: "Tickets"}
 
 
 rightNavigationButtons:

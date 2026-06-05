@@ -51,7 +51,7 @@
   elements:
     - {
         name: "IDgis", 
-        description: "IDGis", 
+        description: "IDgis", 
         link: "https://www.idgis.nl/", 
         imageUrl: "IDgis_logo.svg"
       }

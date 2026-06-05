@@ -5,7 +5,7 @@
         name: "OpenGeoGroep", 
         description: "", 
         link: "https://www.opengeogroep.nl/", 
-        imageUrl: "logo-opengeogroep.svg"
+        imageUrl: "OGG-logo2012_mettekst_nomargin.svg"
       }
     - {
         name: "GeoCat", 
@@ -22,17 +22,23 @@
     - {
         name: "Sogelink", 
         description: "", 
-        link: "https://www.geodan.nl/", 
-        imageUrl: "Sogelinklogo.svg"
+        link: "https://www.sogelink.com/nl/", 
+        imageUrl: "SOGELINK_Logo_Responsive_01_Bleu.png"
+      }
+    - {
+        name: "Tailormap", 
+        description: "", 
+        link: "https://www.tailormap.nl", 
+        imageUrl: "Tailormap-Logo.svg"
       }
 -
   group: "Zilver"
   elements:
     - {
-        name: "TomTom",
+        name: "Merkator",
         description: "", 
-        link: "https://tomtom.com/", 
-        imageUrl: "TomTom-logo-RGB_lockup.png"
+        link: "https://www.merkator.com/", 
+        imageUrl: "merkator-group-1-2048x573.png"
       }   
     - {
         name: "Geo Academie",
@@ -47,5 +53,5 @@
         name: "IDgis", 
         description: "", 
         link: "https://www.idgis.nl/", 
-        imageUrl: "ID_GIS.png"
+        imageUrl: "IDgis_logo.svg"
       }

@@ -47,7 +47,7 @@
         imageUrl: "logo_GA.png"
       }   
 -
-  group: "Brons"
+  group: "Bronze"
   elements:
     - {
         name: "IDgis", 

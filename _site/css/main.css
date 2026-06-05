@@ -2777,15 +2777,7 @@ nav li a.current,nav li a:hover{
     margin:13px 7px
 }
 .partners img{
-    width:100%;
-    -webkit-transition:all 0.3s;
-    transition:all 0.3s;
-    -webkit-filter:grayscale(1);
-    filter:grayscale(1)
-}
-.partners img:hover{
-    -webkit-filter:grayscale(0);
-    filter:grayscale(0)
+    width:100%
 }
 .mc-field-group{
     padding-right:3px

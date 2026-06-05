@@ -38,7 +38,7 @@
         name: "Merkator",
         description: "Merkator", 
         link: "https://www.merkator.com/", 
-        imageUrl: "merkator-group-1-2048x573.png"
+        imageUrl: "merkator-group-1-2048x573-inverted.png"
       }   
     - {
         name: "Geo Academie",

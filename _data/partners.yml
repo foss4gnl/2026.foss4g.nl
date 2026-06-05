@@ -3,31 +3,31 @@
   elements: 
     - {
         name: "OpenGeoGroep", 
-        description: "", 
+        description: "Open Geo Groep", 
         link: "https://www.opengeogroep.nl/", 
         imageUrl: "OGG-logo2012_mettekst_nomargin.svg"
       }
     - {
         name: "GeoCat", 
-        description: "", 
+        description: "GeoCat", 
         link: "https://www.geocat.net/", 
         imageUrl: "geocat_logo_colour.svg"
       }
     - {
         name: "GeoSquare", 
-        description: "", 
+        description: "Geosquare", 
         link: "https://www.geosquare.nl/", 
         imageUrl: "geosquare_Logo_RGB-cropped.svg"
       }  
     - {
         name: "Sogelink", 
-        description: "", 
+        description: "Sogelink", 
         link: "https://www.sogelink.com/nl/", 
         imageUrl: "SOGELINK_Logo_Responsive_01_Bleu.png"
       }
     - {
         name: "Tailormap", 
-        description: "", 
+        description: "Tailormap", 
         link: "https://www.tailormap.nl", 
         imageUrl: "Tailormap-Logo.svg"
       }
@@ -36,13 +36,13 @@
   elements:
     - {
         name: "Merkator",
-        description: "", 
+        description: "Merkator", 
         link: "https://www.merkator.com/", 
         imageUrl: "merkator-group-1-2048x573.png"
       }   
     - {
         name: "Geo Academie",
-        description: "", 
+        description: "Geo Academie", 
         link: "https://geo-academie.nl/", 
         imageUrl: "logo_GA.png"
       }   
@@ -51,7 +51,7 @@
   elements:
     - {
         name: "IDgis", 
-        description: "", 
+        description: "IDGis", 
         link: "https://www.idgis.nl/", 
         imageUrl: "IDgis_logo.svg"
       }

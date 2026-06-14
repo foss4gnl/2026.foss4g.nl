@@ -123,6 +123,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=osgeonl", icon: "twitter"}
+ - {linkedin_username: "osgeo-nl", icon: "linkedin"}
 footerBlocks:
 -
   title: "Contact"

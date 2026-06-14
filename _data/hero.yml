@@ -4,5 +4,5 @@ spreker: "PRESENTEER ZÉLF"
 eventDate: "8 en 9 juli 2026 - Huis of Connections (Groot Handelshuis) / Rölinggebouw, Groningen"
 buttons:
 #    - {link: "https://pretalx.com/foss4gnl/cfp", text: "Call for Presentations: Geef zelf een presentatie of workshop! - verlengd t/m 25 mei!"}
-- {link: "https://pretix.eu/foss4gnl/2026/", text: "Tickets"}
 - {permalink: "#pretalx", text: "Programma"}
+- {link: "https://pretix.eu/foss4gnl/2026/", text: "Tickets"}

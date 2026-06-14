@@ -122,8 +122,8 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/intent/user?screen_name=osgeonl", icon: "twitter"}
- - {linkedin: "osgeo-nl", icon: "linkedin"}
+ - {link: "https://www.linkedin.com/company/osgeo-nl", icon: "linkedin"}
+ - {link: "https://fosstodon.org/@osgeonl", icon: "mastodon"}
 footerBlocks:
 -
   title: "Contact"

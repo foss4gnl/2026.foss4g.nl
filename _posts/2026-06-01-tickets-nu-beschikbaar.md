@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tickets zijn beschikbaar!"
-date:   2026-06-01 21:40:00
+date:   9999-06-01 21:40:00
 isStaticPost: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Er wordt hard gewerkt in de workshops"
-date:   2026-07-08 11:40:00
+date:   2026-07-06 11:40:00
 isStaticPost: false
 ---
 

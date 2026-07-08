@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rondetafelsessie geannuleerd"
-date:   2026-07-07 14:30:00
+date:   9999-07-07 14:30:00
 isStaticPost: false
 ---
 

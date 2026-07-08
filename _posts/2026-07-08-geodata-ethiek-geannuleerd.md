@@ -7,6 +7,6 @@ isStaticPost: false
 
 Programmawijziging: "Community of practice: geodata ethiek" geannuleerd.
 
-Helaas kan donderdag de rondetafelsessie "Community of practice: geodata ethiek" niet doorgaan.
+Helaas kan donderdag de rondetafelsessie "Community of practice: geodata ethiek" (11.00u in de Diephuiszaal) niet doorgaan.
 We verwachten dat degenen die hierbij wilden aanschuiven elders in het programma wat van hun interesse vinden.
-Het thema houden wel war, we willen hier in de loop van het nog wel wat mee gaan doen.
+Het thema houden we wel warm, we willen hier in de loop van het nog wel wat mee gaan doen.

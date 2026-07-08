@@ -5,7 +5,7 @@ date:   2026-07-08 14:30:00
 isStaticPost: false
 ---
 
-Programmawijziging: "Community of practice: geodata ethiek" geannuleerd.
+Programmawijziging: Community of practice: geodata ethiek geannuleerd.
 
 Helaas kan donderdag de rondetafelsessie "Community of practice: geodata ethiek" (11.00u in de Diephuiszaal) niet doorgaan.
 We verwachten dat degenen die hierbij wilden aanschuiven elders in het programma wat van hun interesse vinden.
